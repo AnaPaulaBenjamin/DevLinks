@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Progeto feito através do programa Discover da Rocketseat. <br/>
+Projeto feito através do programa Discover da Rocketseat. <br/>
 </p>
 
 <p align="center">
